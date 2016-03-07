@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--blue-->
+    <color name="bluePrimary">#405AF4</color>
+    <color name="transPrimaryBlue">#80405AF4</color>
+    <color name="blue2">#667AF7</color>
+    <color name="blue3">#8C9CF9</color>
+    <color name="blue4">#B2BDFB</color>
+    <color name="blue5">#D9DEFD</color>
+    <color name="blue6">#C2D8F5</color>
+    <color name="blueBackground">#435DFA</color>
+
+    <!--orange-->
+    <color name="orangePrimary">#f95015</color>
+    <color name="orange2">#fb7243</color>
+    <color name="orange3">#fc9572</color>
+    <color name="orange4">#fdb9a1</color>
+    <color name="orange5">#fedcd0</color>
+
+    <!--Black/Gray-->
+    <color name="blackPrimary">#333338</color>
+    <color name="black2">#5c5c60</color>
+    <color name="black3">#858588</color>
+    <color name="black4">#adadaf</color>
+    <color name="black5">#d6d6d7</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="semitransparent">#50FFFFFF</color>
+
+    <color name="charcoalPrimary">#202730</color>
+    <color name="lightBlue">#D9DEFD</color>
+    <color name="gray">#ADADAF</color>
+    <color name="dark_gray">#a1a1a1</color>
+    <color name="redSelection">#F84D26</color>
+    <color name="blueTextOnWhiteButton">#405AF4</color>
+    <color name="gray_alternative">#858588</color>
+
+    <!-- border for images -->
+    <color name="light_blue_border">#D7E6FF</color>
+    <color name="dark_blue_border">#6666FF</color>
+    <color name="light_orange_border">#FC9572</color>
+
+    <color name="facebook">#3b5998</color>
+
+</resources>
